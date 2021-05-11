@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - Welcome to my Github!
 - I am an asipiring data scientist learning and working on developing my skillset, mainly in financial time series analysis.
+- I love coffee, the guitar and lecturing people on data ethics.
 - I am currently working on <a href="https://github.com/shuklasaharsh/Econometry-Oil">Econometrics Based oil prices analytics.</a>
 
 ### List of completed Projects
