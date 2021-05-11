@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - Welcome to my Github!
-- I am an asipiring data scientist learning and working on developing my skillset, mainly in financial time series analysis.
+- I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
 - I am currently working on <a href="https://github.com/shuklasaharsh/Econometry-Oil">Econometrics Based oil prices analytics.</a>
 
@@ -44,3 +44,9 @@ Here are some ideas to get you started:
  - Personal Website
  - Econometrics based oil prices analytics
  ```
+ 
+### For Colaboration Contact Me:
+- [Saharsh Shukla](mailto:saharsh.shukla2018@vitstudent.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
+- Get in touch on 
+  - [Linkedin](https://www.linkedin.com/in/saharsh-shukla-740118178/)
+  - [Instagram](https://www.instagram.com/shuklasaharsh)
