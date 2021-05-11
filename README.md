@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### List of completed Projects
  ```diff
+ + Analysis of stock prices - Faang and protfolio creation
  + Completed Vaccination notification
  + Emojinator - Inspired by Abhinav Singh
  + Htop replica using CPP
