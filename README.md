@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### List of completed Projects
  ```diff
  + Analysis of stock prices - Faang and protfolio creation
- + Completed Vaccination notification
+ + Vaccination notification using Email
  + Emojinator - Inspired by Abhinav Singh
  + Htop replica using CPP
  + Brain Tumor Detection using Matlab
