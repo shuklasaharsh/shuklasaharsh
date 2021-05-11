@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 - I am currently working on <a href="https://github.com/shuklasaharsh/Econometry-Oil">Econometrics Based oil prices analytics.</a>
 
 ### List of completed Projects
- ```diff
- + Using LSTM for time series analysis
- + Using RNN for Financial data analysis
- + Analysis of stock prices - Faang and protfolio creation
- + Vaccination notification using Email
- + Emojinator - Inspired by Abhinav Singh
- + Htop replica using CPP
- + Brain Tumor Detection using Matlab
- + Leaf Disease Detection using Matlab
- + Speech Recognition using Kivy and python
- + Personal Assistant
- 
- ```
+
++ [Using LSTM for time series analysis](https://github.com/shuklasaharsh/LSTM-NN-TSP)
++ [Using RNN for Financial data analysis](https://github.com/shuklasaharsh/RNN-TSP)
++ [Analysis of stock prices - Faang and protfolio creation](https://github.com/shuklasaharsh/Stock-Market)
++ [Vaccination notification using Email](https://github.com/shuklasaharsh/Vaccine-Notification)
++ [Emojinator - Inspired by Abhinav Singh](https://github.com/shuklasaharsh/tensor-emoji-python)
++ [Htop replica using CPP](https://github.com/shuklasaharsh/cpp-system-monitor)
++ [Brain Tumor Detection using Matlab](https://github.com/shuklasaharsh/Brain-Tumor-Detection)
++ [Leaf Disease Detection using Matlab](https://github.com/shuklasaharsh/Leaf-Classifier)
++ [Speech Recognition using Kivy and python](https://github.com/shuklasaharsh/Speech-App)
++ [Personal Assistant](https://github.com/shuklasaharsh/Personal-Assistant)
++ [Digital signal Processing - Filters](https://github.com/shuklasaharsh/DSP)
+
  
  ### List of Pending Projects
  ``` diff
