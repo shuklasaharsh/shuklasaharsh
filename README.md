@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ### List of completed Projects
  ```diff
+ + Using LSTM for time series analysis
+ + Using RNN for Financial data analysis
  + Analysis of stock prices - Faang and protfolio creation
  + Vaccination notification using Email
  + Emojinator - Inspired by Abhinav Singh
