@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 + [Using LSTM for time series analysis](https://github.com/shuklasaharsh/LSTM-NN-TSP)
 + [Using RNN for Financial data analysis](https://github.com/shuklasaharsh/RNN-TSP)
-+ [Analysis of stock prices - Faang and protfolio creation](https://github.com/shuklasaharsh/Stock-Market)
++ [Analysis of stock prices - Faang and portfolio creation](https://github.com/shuklasaharsh/Stock-Market)
 + [Vaccination notification using Email](https://github.com/shuklasaharsh/Vaccine-Notification)
 + [Emojinator - Inspired by Abhinav Singh](https://github.com/shuklasaharsh/tensor-emoji-python)
 + [Htop replica using CPP](https://github.com/shuklasaharsh/cpp-system-monitor)
