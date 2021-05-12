@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 + [Speech Recognition using Kivy and python](https://github.com/shuklasaharsh/Speech-App)
 + [Personal Assistant](https://github.com/shuklasaharsh/Personal-Assistant)
 + [Digital signal Processing - Filters](https://github.com/shuklasaharsh/DSP)
++ [Basic Circuits using LTSPICE](https://github.com/shuklasaharsh/LTSPICE-VLSI/)
 
  
  ### List of Pending Projects
