@@ -50,3 +50,11 @@ Here are some ideas to get you started:
 - Get in touch on 
   - [Linkedin](https://www.linkedin.com/in/saharsh-shukla-740118178/)
   - [Instagram](https://www.instagram.com/shuklasaharsh)
+
+### Buy Me a coffee
+
+## Buy me a coffee :)
+
+- ETH Address: 0x2D8E88C592068dec8D1E5FAf6fbd0Ef447Ca2A25
+- BTC Address: 1BUYcAGEpqmxR1BLKtMqidszXpUiKXMjpD
+- USDC Address: 0x2D8E88C592068dec8D1E5FAf6fbd0Ef447Ca2A25
