@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### List of completed Projects
 
++ [Diabetes Data analytics using MLP - (Mathematical) and SVM on MATLAB](https://github.com/shuklasaharsh/Diabetes-MLP)
 + [Using LSTM for time series analysis](https://github.com/shuklasaharsh/LSTM-NN-TSP)
 + [Using RNN for Financial data analysis](https://github.com/shuklasaharsh/RNN-TSP)
 + [Analysis of stock prices - Faang and portfolio creation](https://github.com/shuklasaharsh/Stock-Market)
