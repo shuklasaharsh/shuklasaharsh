@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 + [Digital signal Processing - Filters](https://github.com/shuklasaharsh/DSP)
 + [Basic Circuits using LTSPICE](https://github.com/shuklasaharsh/LTSPICE-VLSI/)
 + [PHP based webapp for travelling](https://github.com/shuklasaharsh/Travel-Web-App)
++ [ARIMA Time series analysis of airplane passengers](https://github.com/shuklasaharsh/ARIMA-Time-Series)
 
  
  ### List of Pending Projects
