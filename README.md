@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### List of completed Projects
 
++ [Brain tumor Segmentation using KMEANS](https://github.com/shuklasaharsh/Brain-Tumor-detection-2)
 + [COVID19 Time series analysis](https://github.com/shuklasaharsh/COVID19)
 + [Diabetes Data analytics using MLP - (Mathematical) and SVM on MATLAB](https://github.com/shuklasaharsh/Diabetes-MLP)
 + [Using LSTM for time series analysis](https://github.com/shuklasaharsh/LSTM-NN-TSP)
