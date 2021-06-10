@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I am currently working on <a href="https://github.com/shuklasaharsh/Oil-Price-Analysis-Data">Econometrics Based oil prices analytics.</a>
 
 ### List of completed Projects
-
++ [IOT Temperature analysis](https://github.com/shuklasaharsh/IOT_Temperatur_ESP8266)
 + [Brain tumor Segmentation using KMEANS](https://github.com/shuklasaharsh/Brain-Tumor-detection-2)
 + [COVID19 Time series analysis](https://github.com/shuklasaharsh/COVID19)
 + [Diabetes Data analytics using MLP - (Mathematical) and SVM on MATLAB](https://github.com/shuklasaharsh/Diabetes-MLP)
@@ -46,7 +46,6 @@ Here are some ideas to get you started:
  
  ### List of Pending Projects
  ``` diff
- - IOT Temperature analysis
  - Personal Website
  - Econometrics based oil prices analytics
  ```
