@@ -1,22 +1,5 @@
 ![Bio_Image](https://media-exp1.licdn.com/dms/image/C4D16AQHm9LTkM-XGeA/profile-displaybackgroundimage-shrink_350_1400/0/1618151012314?e=1626307200&v=beta&t=d7SanAjm8srg9Z0intBqeT54PN07DFPzBcUpL6FptS8)
 
-### Hi there geek!
-
-<!--
-**shuklasaharsh/shuklasaharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 - Welcome to my Github!
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
@@ -42,6 +25,7 @@ Here are some ideas to get you started:
 + [Basic Circuits using LTSPICE](https://github.com/shuklasaharsh/LTSPICE-VLSI/)
 + [PHP based webapp for travelling](https://github.com/shuklasaharsh/Travel-Web-App)
 + [ARIMA Time series analysis of airplane passengers](https://github.com/shuklasaharsh/ARIMA-Time-Series)
++ [Dave2D Like windows experience](https://github.com/shuklasaharsh/Dave2D-Like-Windows)
 
  
  ### List of Pending Projects
