@@ -2,6 +2,8 @@
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHm9LTkM-XGeA/profile-displaybackgroundimage-shrink_350_1400/0/1618151012314?e=1626307200&v=beta&t=d7SanAjm8srg9Z0intBqeT54PN07DFPzBcUpL6FptS8">
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuklasaharsh&theme=dark&hide_border=true)](https://git.io/streak-stats">
+</p>
+
 - Welcome to my Github!
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
