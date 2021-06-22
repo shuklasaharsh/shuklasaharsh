@@ -15,7 +15,9 @@
 - I love coffee, the guitar and lecturing people on data ethics.
 - I am currently working on <a href="https://github.com/shuklasaharsh/Oil-Price-Analysis-Data">Econometrics Based oil prices analytics.</a>
 
-### List of completed Projects
+### List of completed/Base Projects
++ [Note taking command line Tool](https://github.com/shuklasaharsh/Notes-App)
++ [Error handling for node applications - Email Notification](https://github.com/shuklasaharsh/Error-Handling)
 + [IOT Temperature analysis](https://github.com/shuklasaharsh/IOT_Temperatur_ESP8266)
 + [Brain tumor Segmentation using KMEANS](https://github.com/shuklasaharsh/Brain-Tumor-detection-2)
 + [COVID19 Time series analysis](https://github.com/shuklasaharsh/COVID19)
@@ -37,10 +39,11 @@
 + [Dave2D Like windows experience](https://github.com/shuklasaharsh/Dave2D-Like-Windows)
 
  
- ### List of Pending Projects
+ ### List of Pending/Ongoing Projects
  ``` diff
  - Personal Website
- - Econometrics based oil prices analytics
+ ! Econometrics based oil prices analytics
+ ! Error Handling for Node based applications
  ```
  
 ### For Colaboration Contact Me:
