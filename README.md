@@ -14,16 +14,16 @@ const Saharsh = {
   tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, Keras, SKlearn, Pandas, Plotly, SQL],
   skillMap: {
     Mongo: 2.5,
-    Node: 4,
-    React: 3,
-    Express: 3,
+    Node: 2.5,
+    React: 3.5,
+    Express: 3.5,
     Turi: 5,
     PyTorch: 4,
     Tensorflow: 5,
     Keras: 5,
     Sklearn: 3.5,
-    Pandas; 5, //TODO: Fix This
-    Plotly: 4,
+    Pandas; 5, // This error was not intentional to show that even the most experienced programmers make mistake and get stuck.
+    Plotly: 4, // It definitely does not signify that programming is all about learning and growing.
     SQL: 3.5,
     MAXIMUM_SCORE: 6
   }
