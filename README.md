@@ -38,7 +38,7 @@ const Saharsh = {
 - Get in touch 
   - [Linkedin](https://www.linkedin.com/in/saharsh-shukla-740118178/)
   - [Instagram](https://www.instagram.com/shuklasaharsh)
-  - [Email](mailto:saharsh.shukla2018@vitstudent.ac.in?subject=Checked out your Github)
+  - [Email](mailto:saharsh.shukla2018@vitstudent.ac.in?subject=Checked%20out%20your%20Github)
 - :page_with_curl: Check out my [Resume](https://1drv.ms/b/s!Au5WUWjJBK66witUsxkTCUEn5Pmj?e=kNLt8u)
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
