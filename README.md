@@ -22,9 +22,9 @@ const Saharsh = {
     Tensorflow: 5,
     Keras: 5,
     Sklearn: 3.5,
-    Pandas; 5, // This error was not intentional to show that even the most experienced programmers make mistake and get stuck.
+    Pandas; 5, // This error was not intentional.
     Plotly: 4, // It definitely does not signify that programming is all about learning and growing.
-    SQL: 3.5,
+    SQL: 3.5, // It also does not signify that even the most experienced programmers make mistakes.
     MAXIMUM_SCORE: 6
   }
   currently-learning: [Django, TypeScript],
