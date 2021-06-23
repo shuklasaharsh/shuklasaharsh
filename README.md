@@ -2,7 +2,7 @@
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHm9LTkM-XGeA/profile-displaybackgroundimage-shrink_350_1400/0/1618151012314?e=1626307200&v=beta&t=d7SanAjm8srg9Z0intBqeT54PN07DFPzBcUpL6FptS8">
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuklasaharsh&hide_border=true&fire=2389DD&ring=329BDD&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuklasaharsh&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuklasaharsh&theme=dark&hide_border=true">
 </p>
 
 ![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
