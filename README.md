@@ -7,7 +7,14 @@
 
 ![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
 
-
+```json
+const Saharsh = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, Python, CPP],
+  tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, SKlearn, Pandas, Plotly, SQL],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
 
 
 - Welcome to my Github!
@@ -15,8 +22,9 @@
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
 - I am currently working on <a href="https://github.com/shuklasaharsh/Oil-Price-Analysis-Data">Econometrics Based oil prices analytics.</a>
+- 
 
-### List of completed/Base Projects
+### Completed/Base Projects
 + [Note taking command line Tool](https://github.com/shuklasaharsh/Notes-App)
 + [Error handling for node applications - Email Notification](https://github.com/shuklasaharsh/Error-Handling)
 + [IOT Temperature analysis](https://github.com/shuklasaharsh/IOT_Temperatur_ESP8266)
