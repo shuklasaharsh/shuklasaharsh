@@ -7,7 +7,7 @@
 
 ![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
 
-```json
+```javascript
 const Saharsh = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, Python, CPP],
