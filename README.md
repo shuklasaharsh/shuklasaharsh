@@ -10,7 +10,7 @@
 ```javascript
 const Saharsh = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, Python, CPP],
+  code: [Javascript, HTML, CSS, Python, Java, CPP],
   tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, SKlearn, Pandas, Plotly, SQL],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
