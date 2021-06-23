@@ -22,7 +22,7 @@ const Saharsh = {
     Tensorflow: 5,
     Keras: 5,
     Sklearn: 3.5,
-    Pandas; 5,
+    Pandas; 5, //TODO: Fix This
     Plotly: 4,
     SQL: 3.5,
     MAXIMUM_SCORE: 6
