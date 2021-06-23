@@ -11,8 +11,24 @@
 const Saharsh = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java, CPP],
-  tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, SKlearn, Pandas, Plotly, SQL],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, Keras, SKlearn, Pandas, Plotly, SQL],
+  skillMap: {
+    Mongo: 2.5,
+    Node: 4,
+    React: 3,
+    Express: 3,
+    Turi: 5,
+    PyTorch: 4,
+    Tensorflow: 5,
+    Keras: 5,
+    Sklearn: 3.5,
+    Pandas; 5,
+    Plotly: 4,
+    SQL: 3.5,
+    MAXIMUM_SCORE: 6
+  }
+  currently-learning: [Django, TypeScript],
+  architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
 
