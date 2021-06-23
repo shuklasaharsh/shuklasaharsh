@@ -11,6 +11,7 @@
 
 
 - Welcome to my Github!
+- :page_with_curl: Check out my [Resume](https://1drv.ms/b/s!Au5WUWjJBK66witUsxkTCUEn5Pmj?e=kNLt8u)
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
 - I am currently working on <a href="https://github.com/shuklasaharsh/Oil-Price-Analysis-Data">Econometrics Based oil prices analytics.</a>
