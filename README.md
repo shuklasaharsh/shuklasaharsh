@@ -25,7 +25,7 @@ const Saharsh = {
     Pandas; 5, // This error was not intentional.
     Plotly: 4, // It definitely does not signify that programming is all about learning and growing.
     SQL: 3.5, // It also does not signify that even the most experienced programmers make mistakes.
-    MAXIMUM_SCORE: 6
+    MAXIMUM_SCORE: 6 // The maximum score is reserved for Linus Torvalds, Bjarne Stroustrup and Dennis Ritchie
   },
   otherSkills: [Finance, Econometrics, Macroeconomics, StartupFinance],
   currently-learning: [Django, TypeScript, Legal_Aspects_of_Business],
