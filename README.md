@@ -65,7 +65,7 @@ const Saharsh = {
 + [Dave2D Like windows experience](https://github.com/shuklasaharsh/Dave2D-Like-Windows)
 
  
- ### List of Pending/Ongoing Projects
+ ### Pending/Ongoing Projects
  ``` diff
  - Personal Website
  ! Econometrics based oil prices analytics
