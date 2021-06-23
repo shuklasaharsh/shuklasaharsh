@@ -26,7 +26,7 @@ const Saharsh = {
     Plotly: 4, // It definitely does not signify that programming is all about learning and growing.
     SQL: 3.5, // It also does not signify that even the most experienced programmers make mistakes.
     MAXIMUM_SCORE: 6
-  }
+  },
   otherSkills: [Finance, Econometrics, Macroeconomics, StartupFinance],
   currently-learning: [Django, TypeScript, Legal_Aspects_of_Business],
   architecture: ["microservices", "event-driven", "design system pattern"]
