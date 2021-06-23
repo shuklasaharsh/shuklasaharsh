@@ -35,6 +35,10 @@ const Saharsh = {
 
 
 - Welcome to my Github!
+- Get in touch 
+  - [Linkedin](https://www.linkedin.com/in/saharsh-shukla-740118178/)
+  - [Instagram](https://www.instagram.com/shuklasaharsh)
+  - [Email](mailto:saharsh.shukla2018@vitstudent.ac.in?subject=Checked out your Github)
 - :page_with_curl: Check out my [Resume](https://1drv.ms/b/s!Au5WUWjJBK66witUsxkTCUEn5Pmj?e=kNLt8u)
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
@@ -73,7 +77,7 @@ const Saharsh = {
  
 ### For Colaboration Contact Me:
 - [Saharsh Shukla](mailto:saharsh.shukla2018@vitstudent.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
-- Get in touch on 
+- Get in touch
   - [Linkedin](https://www.linkedin.com/in/saharsh-shukla-740118178/)
   - [Instagram](https://www.instagram.com/shuklasaharsh)
 
