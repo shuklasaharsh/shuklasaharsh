@@ -39,7 +39,6 @@ const Saharsh = {
 - I am an <b>asipiring data scientist learning</b> and working on developing my skillset, mainly in financial time series analysis.
 - I love coffee, the guitar and lecturing people on data ethics.
 - I am currently working on <a href="https://github.com/shuklasaharsh/Oil-Price-Analysis-Data">Econometrics Based oil prices analytics.</a>
-- 
 
 ### Completed/Base Projects
 + [Note taking command line Tool](https://github.com/shuklasaharsh/Notes-App)
