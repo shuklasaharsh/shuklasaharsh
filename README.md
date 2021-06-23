@@ -27,7 +27,8 @@ const Saharsh = {
     SQL: 3.5, // It also does not signify that even the most experienced programmers make mistakes.
     MAXIMUM_SCORE: 6
   }
-  currently-learning: [Django, TypeScript],
+  otherSkills: [Finance, Econometrics, Macroeconomics, StartupFinance],
+  currently-learning: [Django, TypeScript, Legal_Aspects_of_Business],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
