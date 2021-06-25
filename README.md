@@ -27,8 +27,8 @@ const Saharsh = {
     SQL: 3.5, // It also does not signify that even the most experienced programmers make mistakes.
     MAXIMUM_SCORE: 6 // The maximum score is reserved for Linus Torvalds, Bjarne Stroustrup and Dennis Ritchie
   },
-  otherSkills: [Finance, Econometrics, Macroeconomics, StartupFinance],
-  currently-learning: [Django, TypeScript, Legal_Aspects_of_Business, Blockchain, Game_Theory],
+  otherSkills: ['Finance', 'Econometrics', 'Macroeconomics', 'StartupFinance', 'Music'],
+  currently-learning: ['Django', 'TypeScript', 'Legal_Aspects_of_Business', 'Blockchain', 'Game_Theory'],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
