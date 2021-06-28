@@ -12,21 +12,6 @@ const Saharsh = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java, CPP],
   tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, Keras, SKlearn, Pandas, Plotly, SQL],
-  skillMap: {
-    Mongo: 2.5,
-    Node: 2.5,
-    React: 3.5,
-    Express: 3.5,
-    Turi: 5,
-    PyTorch: 4,
-    Tensorflow: 5,
-    Keras: 5,
-    Sklearn: 3.5,
-    Pandas; 5, // This error was not intentional.
-    Plotly: 4, // It definitely does not signify that programming is all about learning and growing.
-    SQL: 3.5, // It also does not signify that even the most experienced programmers make mistakes.
-    MAXIMUM_SCORE: 6 // The maximum score is reserved for Linus Torvalds, Bjarne Stroustrup and Dennis Ritchie
-  },
   otherSkills: ['Finance', 'Econometrics', 'Macroeconomics', 'StartupFinance', 'Music'],
   currently-learning: ['Django', 'TypeScript', 'Legal_Aspects_of_Business', 'Blockchain', 'Game_Theory'],
   architecture: ["microservices", "event-driven", "design system pattern"]
