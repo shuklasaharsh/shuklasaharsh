@@ -13,7 +13,7 @@ const Saharsh = {
   code: [Javascript, HTML, CSS, Python, Java, CPP],
   tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, Keras, SKlearn, Pandas, Plotly, SQL],
   otherSkills: ['Finance', 'Econometrics', 'Macroeconomics', 'StartupFinance', 'Music'],
-  currently-learning: ['Django', 'TypeScript', 'Legal_Aspects_of_Business', 'Blockchain', 'Game_Theory'],
+  currentlyLearning: ['Django', 'TypeScript', 'Legal_Aspects_of_Business', 'Blockchain', 'Game_Theory'],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
