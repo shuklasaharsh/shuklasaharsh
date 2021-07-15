@@ -31,6 +31,9 @@ const Saharsh = {
 
 ### Completed/Base Projects
 + [Note taking command line Tool](https://github.com/shuklasaharsh/Notes-App)
++ [Online Portfolio](https://shuklasaharsh.herokuapp.com)
++ [REST API - Manage tasks](https://github.com/shuklasaharsh/tasks-app)
++ [chat app with SocketIO](https://github.com/shuklasaharsh/chat-app-with-socketio)
 + [Error handling for node applications - Email Notification](https://github.com/shuklasaharsh/Error-Handling)
 + [IOT Temperature analysis](https://github.com/shuklasaharsh/IOT_Temperatur_ESP8266)
 + [Brain tumor Segmentation using KMEANS](https://github.com/shuklasaharsh/Brain-Tumor-detection-2)
