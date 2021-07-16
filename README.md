@@ -57,9 +57,8 @@ const Saharsh = {
 
  
  ### Pending/Ongoing Projects
+ + [Expense Tracker Using React](https://github.com/shuklasaharsh/react-expense-tracker)
  ``` diff
- - Personal Website
- ! Econometrics based oil prices analytics
  ! Error Handling for Node based applications
  ```
  
