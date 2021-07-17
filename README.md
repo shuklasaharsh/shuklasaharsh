@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuklasaharsh&hide_border=true&fire=2389DD&ring=329BDD&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api?username=shuklasaharsh&theme=dark&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shuklasaharsh">
 </p>
 
 ![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
-
 ```javascript
 const Saharsh = {
   pronouns: "he" | "him",
