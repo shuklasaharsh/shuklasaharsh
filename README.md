@@ -4,6 +4,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuklasaharsh&hide_border=true&fire=2389DD&ring=329BDD&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api?username=shuklasaharsh&theme=dark&hide_border=true"><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=shuklasaharsh&theme=github&bg_color=151515">
+  <img src="https://github-profile-trophy.vercel.app/?username=shuklasaharsh&theme=onedark">
 </p>
 
 ![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
