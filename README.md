@@ -5,7 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shuklasaharsh&theme=dark&hide_border=true"><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=shuklasaharsh&theme=github&bg_color=151515">
   <img src="https://github-profile-trophy.vercel.app/?username=shuklasaharsh&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasaharsh&theme=dark&hide_border=true">
 </p>
+
 
 ![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
 ```javascript
