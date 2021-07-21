@@ -4,8 +4,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuklasaharsh&hide_border=true&fire=2389DD&ring=329BDD&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api?username=shuklasaharsh&theme=dark&hide_border=true"><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=shuklasaharsh&theme=github&bg_color=151515">
-  <img src="https://github-profile-trophy.vercel.app/?username=shuklasaharsh&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasaharsh&theme=dark&hide_border=true">
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=shuklasaharsh&theme=onedark" width='60%'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasaharsh&theme=dark&hide_border=true" width = '30%'>
+  </div>
 </p>
 
 
