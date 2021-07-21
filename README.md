@@ -7,11 +7,10 @@
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=shuklasaharsh&theme=onedark" width='60%'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasaharsh&theme=dark&hide_border=true&hide=Jupyter Notebook" width = '30%'>
+    <img src="https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square" align="center">
   </div>
 </p>
 
-
-![My Profile views](https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square)
 ```javascript
 const Saharsh = {
   pronouns: "he" | "him",
