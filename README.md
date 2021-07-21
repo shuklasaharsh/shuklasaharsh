@@ -6,7 +6,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=shuklasaharsh&theme=github&bg_color=151515">
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=shuklasaharsh&theme=onedark" width='60%'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasaharsh&theme=dark&hide_border=true" width = '30%'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklasaharsh&theme=dark&hide_border=true&hide=Jupyter Notebook" width = '30%'>
   </div>
 </p>
 
