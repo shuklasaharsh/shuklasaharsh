@@ -14,10 +14,10 @@
 ```javascript
 const Saharsh = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java, CPP],
-  tools: [Mongo, Node, React, Express, Turi, PyTorch, Tensorflow, Keras, SKlearn, Pandas, Plotly, SQL],
+  code: [Javascript, HTML, CSS, Python, Java, CPP, TypeScript],
+  tools: [Mongo, Node, React, Next, Angular, Express, Turi, PyTorch, Tensorflow, Keras, SKlearn, Pandas, Plotly, SQL],
   otherSkills: ['Finance', 'Econometrics', 'Macroeconomics', 'StartupFinance', 'Music'],
-  currentlyLearning: ['Django', 'TypeScript', 'Blockchain', 'Game_Theory'],
+  currentlyLearning: ['Django', 'Blockchain', 'Game_Theory'],
   architecture: ["microservices", "event-driven", "design system pattern", "distributed-systems"]
 }
 ```
