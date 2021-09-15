@@ -1,3 +1,27 @@
+<h3>In a hurry?</h3>
+<h4>Here's a list of my skills</h4>
+<hr />
+<p align="center">
+
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Jupyter" width="40px" src="https://camo.githubusercontent.com/49b9353756ea3ff56e889712fc5b14cae079a6df3cc435ef0052559e9cefcf85/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33382f4a7570797465725f6c6f676f2e7376672f38383370782d4a7570797465725f6c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Tensorflow" width="40px" src="https://camo.githubusercontent.com/b37a6f7520a19b76cdb4d21dcba8efb6bf0fb77c12710a6ba24105f0ef46fb2e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f54656e736f72666c6f775f6c6f676f2e7376672f3132303070782d54656e736f72666c6f775f6c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Pytorch" width="40px" src="https://camo.githubusercontent.com/564637d635ef0585b220e73213fbcdd5d3823daf262b47919e15e14ee7ccc93b/68747470733a2f2f7079746f7263682e6f72672f6173736574732f696d616765732f7079746f7263682d6c6f676f2e706e67" data-canonical-src="https://pytorch.org/assets/images/pytorch-logo.png" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a>
+    <a href="https://github.com/shuklasaharsh"><img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="max-width: 100%;"></a>
+  <a href="https://github.com/shuklasaharsh"><img align="left" alt="GoLang" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png?1631694497635" style="max-width: 100%;"></a>
+      <a href="https://github.com/shuklasaharsh"><img align="left" alt="React" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png?1631693876263" style="max-width: 100%;"></a>
+  <a href="https://github.com/shuklasaharsh"><img align="left" alt="JavaScript" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Matlab" width="40px" src="https://camo.githubusercontent.com/a240bd1934154469afd73f16cdd1def3c652f4c029758d1d20ea40823371e874/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32312f4d61746c61625f4c6f676f2e706e672f36363770782d4d61746c61625f4c6f676f2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/android/android-original.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/shuklasaharsh"><img align="left" alt="Pandas" width="40px" src="https://camo.githubusercontent.com/3327d0a8a8924da279aad66d10f1a46eaeea039b0477b3e82996b18a19f059bf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65642f50616e6461735f6c6f676f2e7376672f3132303070782d50616e6461735f6c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" style="max-width: 100%;"></a>
+</p>
+
+<br />
+<br />
+<hr />
 <p align="center">
   <h1>Incoming Backend Developer at -</h1>
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGEE9nLXLd1Zg/profile-displaybackgroundimage-shrink_350_1400/0/1631193723155?e=1637193600&v=beta&t=faftWqMMoLqbz--L1yXB2MRPHoZBF75I9CK3Cb7dFoc">
@@ -11,6 +35,8 @@
     <img src="https://komarev.com/ghpvc/?username=shuklasaharsh&color=grey&style=flat-square" align="center">
   </div>
 </p>
+
+# Summary
 
 ```javascript
 const Saharsh = {
