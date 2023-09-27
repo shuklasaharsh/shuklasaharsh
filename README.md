@@ -1,6 +1,9 @@
 <h3>In a hurry?</h3>
 <h4>Here's a list of my skills</h4>
 <hr />
+
+<img width="730" alt="image" src="https://github.com/shuklasaharsh/shuklasaharsh/assets/67519229/8d456a23-4d58-49e0-9ab2-a747d41ae624">
+
 <p align="center">
     
 <h5>Disclamer: My GPG Key was not properly set up so I lost almost 20,000 commits within last year :/</h5>
